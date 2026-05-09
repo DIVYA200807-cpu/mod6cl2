@@ -1,0 +1,28 @@
+ body{
+    background: linear-gradient(135deg, purple 0%, rgb(244, 78, 106) 100%);
+    font-family: 'roboto slab', serif;
+ }
+
+ .about{
+    background-color: chocolate;
+    border-radius: 20px;
+    margin-top: 50px;
+ }
+
+ .m-heading {
+    font-size: 2.5rem ;
+    font-weight: 700;
+    margin: 30px 0;
+ }
+
+ .btn-outline-warning {
+    border-width: 3px;
+    font-weight: 600;
+    padding: 10px 30px;
+    transition: all 0.3s ease;
+ }
+
+ .btn-outline-warning:hover{
+    background-color: blanchedalmond;
+    transform: scale(1.05);
+ }
